@@ -1,0 +1,7 @@
+CustomerID,Age,City,PurchaseAmount,SignupDate
+C001,25,Lahore,5000,10/01/2023
+C002,,Karachi,7000,15/02/2023
+C003,30,,abc,invalid
+C004,22,Lahore,4500,01/03/2023
+C005,22,Lahore,4500,01/03/2023
+C006,-1,Islamabad,8000,05/04/2023

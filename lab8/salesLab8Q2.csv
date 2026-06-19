@@ -1,0 +1,7 @@
+Product,Price,Quantity,Date
+Laptop,1000,2,2024-01-10
+Mobile,500,3,2024-02-15
+Tablet,abc,1,2024-03-01
+Laptop,1200,,invalid_date
+Monitor,300,2,2024-01-20
+Keyboard,50,5,2024-02-30

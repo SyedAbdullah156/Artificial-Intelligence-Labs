@@ -1,0 +1,13 @@
+Ali,20,A
+Bilal,21,B
+Sara,19,A
+Ahmed,22,C
+Zain,18,B
+Fatima,20,A
+Hassan,23,B
+Ayesha,19,A
+Usman,22,C
+Maryam,21,B
+Umer,20,A
+Ali,19,A+
+Amir,17,A-

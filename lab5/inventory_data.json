@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Laptop",
+        "price": 1200,
+        "quantity": 8
+    },
+    {
+        "name": "Mouse",
+        "price": 25,
+        "quantity": 50
+    },
+    {
+        "name": "Keyboard",
+        "price": 45,
+        "quantity": 30
+    },
+    {
+        "name": "Monitor",
+        "price": 300,
+        "quantity": 15
+    },
+    {
+        "name": "USB Cable",
+        "price": 10,
+        "quantity": 100
+    },
+    {
+        "name": "Headphones",
+        "price": 80,
+        "quantity": 20
+    },
+    {
+        "name": "Webcam",
+        "price": 70,
+        "quantity": 12
+    },
+    {
+        "name": "1",
+        "price": 1.0,
+        "quantity": 2
+    }
+]
